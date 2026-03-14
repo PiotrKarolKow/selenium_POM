@@ -1,0 +1,18 @@
+
+
+
+
+class BasePage:
+
+    """
+    Base page object for each page
+    """
+    def __init__(self, driver):
+        self.driver = driver
+        self._verify_page()
+
+    def _verrify_page(self):
+        #site autotest
+        return
+
+
