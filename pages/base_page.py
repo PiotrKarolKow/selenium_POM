@@ -1,7 +1,6 @@
 
 
 
-
 class BasePage:
 
     """
@@ -11,7 +10,7 @@ class BasePage:
         self.driver = driver
         self._verify_page()
 
-    def _verrify_page(self):
+    def _verify_page(self):
         #site autotest
         return
 

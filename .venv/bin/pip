@@ -1,4 +1,4 @@
-#!/home/vboxuser/Desktop/repozytoria/selenium_POM/.venv/bin/python3
+#!/home/vboxuser/Desktop/repozytoria/selenium_POM/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
