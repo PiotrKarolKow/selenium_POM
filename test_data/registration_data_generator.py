@@ -13,5 +13,3 @@ class RegistrationDataGenerator:
             self.FIRST_NAME = self.fake.first_name_male()
 
 
-
-
